@@ -1,0 +1,7 @@
+##COmandos Git###
+tree .git
+git add <file> (para add varios so colocar _a ou --all)
+git commit(para nao precisar editar so coloca -m entre "" a msg do commit)
+
+
+1 https://www.youtube.com/watch?v=C18qzn7j4SM
